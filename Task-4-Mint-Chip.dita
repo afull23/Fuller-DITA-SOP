@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kcp_wrh_qx">
+    <title>TASK 4: Making Mint Chocolate Chip Ice Cream</title>
+    <taskbody>
+        <context>
+            <p>Tools/Ingredients Needed:<ul id="ul_tz3_1sh_qx">
+                    <li>Cool Creations ICE-60W Ice Cream Maker</li>
+                    <li>2 1/3 Cups of Whole Milk</li>
+                    <li>2 Teaspoons of Pure Vanilla Extract</li>
+                    <li>7 Large Egg Yolks</li>
+                    <li>1 ½ Cups of Semi-Sweet Chocolate Chips</li>
+                    <li>1 ¼ Cups of Granulated Sugar</li>
+                    <li>3 Cups of Mint Leaves</li>
+                    <li>2 1/3 Cups Heavy Cream</li>
+                    <li>Medium Sized Saucepan</li>
+                    <li>Medium Sized Mixing Bowl<p/></li>
+                </ul> Instructions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>ADD </b>milk, cream, vanilla, ½ of the granulated sugar and mint leaves into
+                    the medium saucepan and bring to a boil over medium heat.</cmd>
+            </step>
+            <step>
+                <cmd><b>COMBINE </b>the remaining sugar and the egg yolks in the medium bowl and
+                        <b>MIX </b>the mixture with a whisk until thickened</cmd>
+            </step>
+            <step>
+                <cmd><b>WHISK</b> the hot cream and milk mixture gradually into the yolk mixture and
+                    move that combined mixture into the original saucepan.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    <b>STIR </b>until thick, but
+                    <?oxy_custom_start type="oxy_content_highlight" color="255,64,0"?>BE SURE THE
+                    MIXTURE DOES NOT BOIL AS THE YOLKS WILL OVERCOOK<?oxy_custom_end?></cmd>
+            </step>
+            <step>
+                <cmd><b>BRING</b> the mixture to room temperature, and refrigerate overnight.
+                        <b>POUR </b>the thickened mixture through a strainer</cmd>
+            </step>
+            <step>
+                <cmd><b>FOLLOW </b>steps 5 and 6 in Task 2, but instead of adding all at once, pour
+                    in the chocolate chips through the spout towards the end of the churning process
+                    (See Figure 5)<image href="nuts.png" id="image_iz4_df3_qx"/></cmd>
+                <info>Figure 5 (Pouring Additional Ingredients)</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

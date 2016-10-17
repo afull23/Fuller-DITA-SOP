@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+ <title>DITA Topic Map</title>
+ <topicref href="SOP-Introduction.dita"/>
+ <topicref href="Task1-Preparation.dita"/>
+ <topicref href="Task2-Operation.dita"/>
+ <topicref href="Task-3-Cleaning.dita"/>
+ <topicref href="Task-4-Mint-Chip.dita"/>
+ <topicref href="Task-5-Chocolate-Hazlenut.dita"/>
+ <topicref href="Task-6-Mango-Gelato.dita"/>
+ <topicref href="Works-Cited.dita"/>
+</map>

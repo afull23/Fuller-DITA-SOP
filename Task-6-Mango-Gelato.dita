@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mns_h33_qx">
+    <title>TASK 6: Making Mango Greek Frozen Yogurt</title>
+    <taskbody>
+        <context>
+            <p>Tools/Ingredients Needed:<ul id="ul_nzf_bj3_qx">
+                    <li>Cool Creations ICE-60W Ice Cream Maker</li>
+                    <li>2 Cups of Whole Milk</li>
+                    <li>2 Cups Vanilla Greek Yogurt</li>
+                    <li>½ Cup of Granulated Sugar</li>
+                    <li>4 Cups of Frozen Mango Pieces</li>
+                    <li>1 Teaspoon of Fresh Lime Juice</li>
+                    <li>Medium Sized Mixing Bowl</li>
+                    <li>Food Processor</li>
+                    <li>Strainer<p/></li>
+                </ul></p>
+            <p>Instructions:</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>ADD </b>all above ingredients into a food processor</cmd>
+            </step>
+            <step>
+                <cmd><b>PUREE </b>until the mixture is entirely smooth</cmd>
+            </step>
+            <step>
+                <cmd><b>STRAIN </b>into a medium sized mixing bowl, refrigerate mixture
+                    overnight</cmd>
+            </step>
+            <step>
+                <cmd><b>FOLLOW </b>steps 5 and 6 in Task 2, pressing the Ice Cream button</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

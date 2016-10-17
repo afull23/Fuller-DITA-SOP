@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="SOP-IceCream">
+    <title>TASK 1: Prepare the Device for Operation</title>
+    
+    <taskbody>
+        <context>
+            <p>Tools:
+  
+            </p>
+            <ul>
+                <li>Cool Creations ICE-60W Ice Cream Maker</li>
+                <li>Moist Cloth</li>
+                <li>Warm, Soapy Water</li>
+                <li>Medium-Sized Bowl<p/></li>
+            </ul>
+            <p>Instructions:<hazardstatement>
+                    <messagepanel id="messagepanel_lhw_c5j_px">
+                        <typeofhazard>Electricity Warning</typeofhazard>
+                        <howtoavoid>AVOID SUBMERGING THE MOTOR BASE OF THE MACHINE IN WATER, IT
+                            CONTAINS A ELECTRICAL MOTOR THAT COULD RESULT IN FIRE IF EXPOSED TO
+                            WATER</howtoavoid>
+                    </messagepanel>
+                </hazardstatement></p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>COLLECT</b> a medium sized bowl filled with warm, soapy water</cmd>
+            </step>
+            <step>
+                <cmd><b>WASH </b>the freezer bowl, lid and mixing arm in the prepared water</cmd>
+            </step>
+            <step>
+                <cmd><b>REMOVE</b> any visible dust, residue, or leftover ingredients from the
+                    inside of the machine </cmd>
+            </step>
+            <step>
+                <cmd><b>PLACE </b>freezer bowl inside of the freezer overnight, or for a minimum of
+                    8 hours</cmd>
+            </step>
+            <step>
+                <cmd><b>PLUG</b> the unit into a traditional outlet using the attached power
+                    chord</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

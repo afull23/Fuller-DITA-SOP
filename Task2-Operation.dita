@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_cvr_55j_px">
+    <title>TASK 2: <b>Operate the Cool Creations ICE-60W</b></title>
+    <taskbody>
+        <context id="context_s2w_v5j_px">
+                <p>Tools/Ingredients: </p>
+                <ul id="ul_t2w_v5j_px">
+                    <li>Cool Creations ICE-60W Ice Cream Maker</li>
+                    <li>Whole Milk</li>
+                    <li>Granulated Sugar</li>
+                    <li>Heavy Cram<p/></li>
+                </ul>
+                <p>Instructions:</p>
+            </context>
+            <steps id="steps_u2w_v5j_px">
+                <step>
+                    <cmd><b>EXAMINE</b> the control panel, taking note of the 4 control
+                        buttons</cmd>
+                </step>
+                <step>
+                    <cmd><b>USE </b>instructions in Tasks 4, 5 and 6 to prepare specific ingredients
+                        for your desired ice cream flavor</cmd>
+                </step>
+                <step>
+                    <cmd><b>PLACE </b>lid on the base of the machine, turn clockwise to lock in
+                        place (See Figure 1 for Machine Components) </cmd>
+                </step>
+                <step>
+                    <cmd><b>POUR</b> selected mixture and ingredients through the Ingredient Spout
+                        and cover with the cap</cmd>
+                    <info>
+                        <fig id="fig_xld_zvj_px">
+                        <image href="../Ice%20Cream%20SOP%20Dita/Button-Panel.png"
+                            id="image_ucp_3n3_qx"/>
+                    </fig>
+                    </info>
+                <info>Figure 4 (Button Panel)</info>
+                </step>
+                <step>
+                    <cmd><b>WAIT </b>between 15-40 minutes until the mixture has become thick
+                        enough</cmd>
+                </step>
+            </steps>
+        </taskbody>
+    </task>
+

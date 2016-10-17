@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_qpw_mcl_px">
+    <title>TASK 3: Clean the Cool Creations ICE-60W After First Use</title>
+    <taskbody>
+        <context>
+            <p>Tools: </p>
+            <ul id="ul_prj_scl_px">
+                <li>Cool Creations ICE-60W Ice Cream Maker</li>
+                <li>Warm, soapy water</li>
+                <li>Damp cloth</li>
+                <li>Dry Towel</li>
+                <li>Sponge<p/></li>
+            </ul>
+            <p>Instructions:</p>
+            <hazardstatement>
+                <messagepanel id="messagepanel_wp5_5cl_px">
+                    <typeofhazard>Machine Damage</typeofhazard>
+                    <howtoavoid><b><ph id="_Toc335989706">DO NOT CLEAN ANY MATERIALS WITH HARSH
+                                CLEANERS OR BRUSHES ** **DO NOT PLACE THE FREEZER BOWL INSIDE THE
+                                DISHWASHER** **DO NOT PLACE THE FREEZER BOWL IN THE FREEZER UNTIL
+                                FULLY DRY</ph></b></howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>BRUSH </b>the components of the machine including the freezer bowl, mixing
+                    arm and lid with the sponge dipped in warm soapy water</cmd>
+            </step>
+            <step>
+                <cmd><b>WIPE </b>the mixing bowl with a damp cloth, being sure to eliminate any
+                    residue left over from the previous use</cmd>
+            </step>
+            <step>
+                <cmd><b>DRY</b> each component with the dry towel</cmd>
+                <info><image href="Machine-Components-Pic.png" id="image_hcw_3g3_qx"/></info>
+                <info>Figure 1 (Machine Components)</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
